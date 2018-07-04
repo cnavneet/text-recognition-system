@@ -1,0 +1,9 @@
+*.pyc
+*~
+
+__pycache__
+myvenv
+text8.zip
+.ipynb_checkpoints/
+/static
+.DS_Store
